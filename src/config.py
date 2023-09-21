@@ -14,7 +14,7 @@ DB_PATH = os.path.join(DATA_DIR, "logitrack.db")
 OPTIMIZATION_PARAMS = {
     "MAX_SOLVER_TIME": 10,  # maximum time in seconds for solver
     "MIN_UTILIZATION": 0.3,  # minimum warehouse utilization threshold
-    "MAX_UTILIZATION": 0.88,  # maximum warehouse utilization threshold
+    "MAX_UTILIZATION": 0.92,  # maximum warehouse utilization threshold
 }
 
 # Visualization settings
