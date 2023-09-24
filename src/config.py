@@ -23,7 +23,7 @@ VIS_SETTINGS = {
     "MAP_ZOOM": 4,
     "COLORS": {
         "primary": "#1f77b4",
-        "secondary": "#FF9800",
+        "secondary": "#ff7f0e",
         "success": "#2ca02c",
         "warning": "#d62728",
     }
