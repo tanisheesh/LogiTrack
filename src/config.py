@@ -20,7 +20,7 @@ OPTIMIZATION_PARAMS = {
 # Visualization settings
 VIS_SETTINGS = {
     "MAP_CENTER": [39.8283, -98.5795],  # USA center coordinates
-    "MAP_ZOOM": 3,
+    "MAP_ZOOM": 5,
     "COLORS": {
         "primary": "#1f77b4",
         "secondary": "#ff7f0e",
